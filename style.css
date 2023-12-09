@@ -26,6 +26,10 @@ body {
   padding: 0 12%;
 }
 
+.material-symbols-outlined {
+  display: none;
+}
+
 /* Header */
 
 #header {
@@ -167,9 +171,10 @@ footer {
   }
 
   .material-symbols-outlined {
+    display: inline-block;
     cursor: pointer;
     color: var(--cor-terciaria);
-  }
+}
 
   .content-left {
     display: none;
@@ -194,7 +199,7 @@ footer {
   .social-buttons {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
     height: 18vh;
   }
 }
