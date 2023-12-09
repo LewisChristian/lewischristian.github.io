@@ -166,11 +166,6 @@ footer {
     display: none;
   }
 
-  .material-symbols-outlined {
-    cursor: pointer;
-    color: var(--cor-terciaria);
-  }
-
   .content-left {
     display: none;
   }
