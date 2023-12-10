@@ -55,7 +55,7 @@ body {
 .navbar a{
   color: var(--cor-secundaria);
   font-size: 1.1em;
-  margin: 15px;
+  margin: 0 0 0 20px;
 }
 
 .navbar a:hover {
