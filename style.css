@@ -170,12 +170,6 @@ footer {
     display: none;
   }
 
-  .material-symbols-outlined {
-    display: inline-block;
-    cursor: pointer;
-    color: var(--cor-terciaria);
-}
-
   .content-left {
     display: none;
   }
